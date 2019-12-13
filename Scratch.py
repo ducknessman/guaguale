@@ -56,3 +56,5 @@ def main():
 '''run'''
 if __name__ == '__main__':
 	main()
+
+#执行本代码时，设备必须有音频设备，否则会报错"DirectSoundCreate: No audio device found"
